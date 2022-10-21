@@ -4,9 +4,11 @@
 
 - Estudo Ciência da Computação na Universidade Federal do Piauí
 - Formado em Técnico em Informática pelo Instituto Federal do Piauí
-- Atualmente estou aprendendo <img width="70" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-<img width="70" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a> 
+- Atualmente estou aprendendo:
+
+<img width="70" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> 
 <img width="70" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
+
 
 <br>
 <div align="center">
@@ -39,4 +41,3 @@
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
 
 <img align="left" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-
