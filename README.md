@@ -4,12 +4,6 @@
 
 - Estudo Ciência da Computação na Universidade Federal do Piauí
 - Técnico em Informática pelo Instituto Federal do Piauí
-- Atualmente estou aprendendo:
-
-<div>
-<img width="70" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img width="70" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</div>
 
 #### Linguagens:
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
