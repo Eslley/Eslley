@@ -1,29 +1,37 @@
-### Olá Pessoal!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rubem-eslley-528651248/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-0e76a8?style=flat-square&logo=Gmail&logoColor=white)](mailto:rubemeslley@gmail.com)
+# Hello! I'm Rubem Eslley
 
-- Estudo Ciência da Computação na Universidade Federal do Piauí
-- Técnico em Informática pelo Instituto Federal do Piauí
+<div>
+  <ul>
+    <li>I'm a Science Computer Student at UFPI (9th period)</li>
+    <li>I'm graduated in Computer Technician at IFPI (2016-2018)</li>
+  </ul>
+</div>
 
-#### Linguagens:
-<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+##
 
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-
-<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-
-#### Frameworks:
-<img align="left" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
-
-<img align="left" alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
-
-<img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<div align="center">
+  <a href="https://github.com/eslley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslley&layout=compact&theme=dark"/>
+</div>
+  
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Typescript" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Python" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+  
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="ReactJS" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="NestJS" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Django" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Ionic" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="AngularJS" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Mysql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+  
+##
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/rubem-eslley-528651248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+  <a href="mailto:rubemeslley@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a><br>
+</div>
