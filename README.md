@@ -2,7 +2,7 @@
 
 <div>
   <ul>
-    <li>I'm a Science Computer Student at UFPI (10th period)</li>
+    <li>I'm a Science Computer Student at UFPI (2019-2024)</li>
     <li>I'm graduated in Computer Technician at IFPI (2016-2018)</li>
   </ul>
 </div>
